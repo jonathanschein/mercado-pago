@@ -1,5 +1,5 @@
 {
-    "name": "livepixel/mercado-pago",
+    "name": "jonathanschein/mercado-pago",
     "description": "Mercado Pago API SDK for Laravel",
     "keywords": ["mercadopago", "sdk"],
     "license": "MIT",
